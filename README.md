@@ -1,2 +1,2 @@
 # instalike-me-php
-PHP module for http://instalike.me API
+PHP lib for http://instalike.me API
